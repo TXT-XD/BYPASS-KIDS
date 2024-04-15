@@ -1,0 +1,15 @@
+#FILE METHOD 01
+
+URL = https://api.facebook.com/auth/login
+
+Data = adid=817dff7d-6c5e-4947-b5bd-2910c6b3d74b&format=json&device_id=bef519b8-c4fc-4fae-b27d-cac9c47f5038&cpl=true&family_device_id=ce08e8a4-1470-4a52-b7fb-a679fe7c7018&credentials_type=device_based_login_password&error_detail_type=button_with_disabled&source=device_based_login&email=1000000&password=isjd&access_token=350685531728%257C62f8ce9f74b12f84c123cc23437a4a32&generate_session_cookies=1&meta_inf_fbmeta=&advertiser_id=2a8e27ec-9965-47b7-a086-545dd7f4b193&currently_logged_in_userid=0&locale=en_US&client_country_code=US&method=auth.login&fb_api_req_friendly_name=authenticate&fb_api_caller_class=com.facebook.account.login.protocol.Fb4aAuthHandler&api_key=882a8490361da98702bf97a021ddc14d
+
+Head = {'User-Agent': '[FBAN/FB4A;FBAV/100.0.0.4371;FBBV/4166709[FBAN/FB4A;FBAV/403.0.0.27.81;FBBV/421611052;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/KFTRPWI;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'X-FB-Net-HNI': '23054', 'X-FB-SIM-HNI': '35838', 'X-FB-Connection-Type': 'MOBILE.LTE', 'X-Tigon-Is-Retry': 'False', 'x-fb-session-id': 'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62', 'x-fb-device-group': '5120', 'X-FB-Friendly-Name': 'ViewerReactionsMutation', 'X-FB-Request-Analytics-Tags': 'graphservice', 'X-FB-HTTP-Engine': 'Liger', 'X-FB-Client-IP': 'True', 'X-FB-Server-Cluster': 'True', 'x-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62', 'Content-Length': '693'}
+
+#RANDOM METHOD 01
+
+URL = https://b-graph.facebook.com/method/auth.login
+
+Data = adid=a4cf38e0-4180-46d7-a41d-0f9377d6611a&format=json&device_id=a4cf38e0-4180-46d7-a41d-0f9377d6611a&email=01719203140&password=19203140&generate_analytics_claims=1&credentials_type=password&source=login&error_detail_type=button_with_disabled&enroll_misauth=false&generate_session_cookies=1&generate_machine_id=1&meta_inf_fbmeta=&currently_logged_in_userid=0&fb_api_req_friendly_name=authenticate
+
+Head = {'User-Agent': '[FBAN/FB4A;FBAV/66.0.0.4357;FBBV/4976925[FBAN/FB4A;FBAV/403.0.0.27.81;FBBV/421611052;FBDM/{density=2.25,width=720,height=1332};FBLC/en_US;FBCR/Banglalink;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/KFTRPWI;FBSV/9;nullFBCA/armeabi-v7a:armeabi;]', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Authorization': 'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32', 'X-FB-Friendly-Name': 'authenticate', 'X-FB-Connection-Type': 'unknown', 'Content-Type': 'application/x-www-form-urlencoded', 'X-FB-HTTP-Engine': 'Liger', 'Content-Length': '396'}
