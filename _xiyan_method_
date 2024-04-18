@@ -1,0 +1,11 @@
+#METHOD.............
+
+URl : https://graph.facebook.com/auth/login
+
+
+HEADERS : {'User-Agent': '[FBAN/FB4A;FBAV/416.0.0.34.160;FBBV/21775036;[FBAN/Orca-Android;FBAV/460.0.0.21.89;FBBV/587681861;FBDM/{density=3.0,width=1080,height=2245};FBLC/en_US;FBRV/293084470;FB_FW/1;FBCR/Airtel;FBMF/itel;FBBD/itel;FBPN/com.facebook.katana;FBDV/itel L5503;FBSV/9;FBOP/0;FBCA/arm64-v8a:armeabi-v7a;]', 'Accept-Encoding': 'gzip, deflate', 'Accept': '/', 'Connection': 'Keep-Alive', 'Content-Type': 'application/x-www-form-urlencoded', 'Host': 'graph.facebook.com', 'X-FB-Net-HNI': '20036', 'X-FB-SIM-HNI': '29667', 'X-FB-Connection-Type': 'MOBILE.LTE', 'X-Tigon-Is-Retry': 'False', 'x-fb-session-id': 'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=d29d67d37eca387482a8a5b740f84f62', 'x-fb-device-group': '5004', 'X-FB-Friendly-Name': 'ViewerReactionsMutation', 'X-FB-Request-Analytics-Tags': 'graphservice', 'X-FB-HTTP-Engine': 'Liger', 'X-FB-Client-IP': 'True', 'X-FB-Server-Cluster': 'True', 'x-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62', 'Content-Length': '672'}
+
+
+DATA : adid=bC0cbCb5e258a3C6&format=json&device_id=1ae5bf9a-6b5e-4c60-a119-817f81deeb18&cpl=true&family_device_id=efdc0727-97a2-4786-94f8-39137c407e0a&credentials_type=device_based_login_password&error_detail_type=button_with_disabled&source=device_based_login&email=1000000&password=sksks&access_token=350685531728%7C62f8ce9f74b12f84c123cc23437a4a32&generate_session_cookies=1&meta_inf_fbmeta=&advertiser_id=e8321f88-7bb3-4f7a-ad28-cdf9cd5f941f&currently_logged_in_userid=0&locale=en_US&client_country_code=US&method=auth.login&fb_api_req_friendly_name=authenticate&fb_api_caller_class=com.facebook.account.login.protocol.Fb4aAuthHandler&api_key=882a8490361da98702bf97a021ddc14d
+
+#🤧🤧🤧🤧🤧🤧🤧
